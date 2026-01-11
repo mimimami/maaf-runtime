@@ -31,6 +31,7 @@
             "MAAF\\Runtime\\Tests\\": "tests/"
         }
     },
+"bin": [ "bin/maaf" ];
     "minimum-stability": "stable",
     "prefer-stable": true
 }
