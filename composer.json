@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": ">=8.1",
-        "maaf/core": "^2.01"
+        "maaf/core": "^1.0"
     },
     "suggest": {
         "ext-opcache": "Required for opcache preload support"
@@ -31,7 +31,7 @@
             "MAAF\\Runtime\\Tests\\": "tests/"
         }
     },
-"bin": [ "bin/maaf" ];
+"bin": [ "bin/maaf" ],
     "minimum-stability": "stable",
     "prefer-stable": true
 }
